@@ -1,3 +1,5 @@
+![Meu_script](https://github.com/yslanlopes12/Criacao_de_banner_Linux/blob/main/meu%20script_.PNG?raw=true)
+
 **Para quem está iniciando no mundo da cibersegurança, infraestrutura ou áreas similares, sabe como é difícil criar suas próprias ferramentas e programas. 
 A maioria das vezes, o resultado é uma ferramenta funcional, mas sem um apelo visual interessante. E, convenhamos, um script sem estilo fica desinteressante
 e difícil de entender por causa do excesso de texto.**
@@ -14,6 +16,8 @@ Ele deixa a saída de texto no terminal mais divertida e colorida, com aquele ef
 Com essas ferramentas, vou ensinar a vocês como usar os comandos para personalizar seus scripts e torná-los bem TOP. No mundo atual, 
 não basta ser bom, tem que saber vender a sua ferramenta. Se você deseja compartilhar, vender ou até deixar a sua criação famosa, 
 o design também é parte fundamental do processo!
+
+![4por4](https://github.com/yslanlopes12/Criacao_de_banner_Linux/blob/main/novinha_descendo_da_4x4.PNG?raw=true)
 
 Passo 1: Baixar Ferramentas no Terminal do Linux
   - 
@@ -32,7 +36,7 @@ Agora é só sucesso!
 
 Passo 2: Testar
 -
-Digite:
+Digite: 
 ``
 figlet 'Hello!'
 ``
@@ -56,6 +60,8 @@ figlet -cf slant  'Hello!' | lolcat
 ``
 - Agora ele coloriu seu título.
 
+![Meu_script_hello](https://github.com/yslanlopes12/Criacao_de_banner_Linux/blob/main/helloo.PNG?raw=true)
+
 Extra: animar e colorir
 -
 
@@ -64,4 +70,12 @@ Agora digite:
 echo 'Hello!' | lolcat -a -d 500
 ``
 - Você pode usar a opção -a para animação e -d para duração, ou seja, 500 .
-foi uma ajuda rapidinha 
+foi uma ajuda rapidinha.
+
+Você pode se aprofundar bastante, basta ler a documentação das ferramentas.  
+
+Figlet: http://www.figlet.org/figlet-man.html  
+
+Lolcat:https://linuxcommandlibrary.com/man/lolcat  
+
+![Cara_tranquilo](https://github.com/yslanlopes12/Criacao_de_banner_Linux/blob/main/60jjtzuxvo2e1.jpeg?raw=true)
