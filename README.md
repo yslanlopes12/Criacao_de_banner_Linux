@@ -21,7 +21,7 @@ o design também é parte fundamental do processo!
 
 Passo 1: Baixar Ferramentas no Terminal do Linux
   - 
-Primeiro vc abre seu terminal e digite os seguintes códigos:
+Primeiro você abre seu terminal e digite os seguintes códigos:
 ```` 
 sudo apt install figlet  lolcat
 ````
